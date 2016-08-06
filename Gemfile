@@ -32,7 +32,11 @@ gem 'minimum-omniauth-scaffold'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
-
+gem 'haml-rails'
+gem 'action_args'
+gem 'html5_validators'
+gem 'kaminari'
+gem 'rails_config'
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'byebug', platform: :mri

@@ -1,0 +1,13 @@
+
+
+%h2 your tweets
+
+
+-for  tweet in @timeline
+  %div
+    = tweet.user.screen_name
+    = tweet.full_text
+    = audio_tag +"test.wav","audio"
+  / = link_to  ,tweet.uri.url
+
+

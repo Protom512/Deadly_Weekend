@@ -1,0 +1,13 @@
+# Provider Page
+twitter_page:  "https://twitter.com/"
+facebook_page: "https://www.facebook.com/"
+github_page:   "https://github.com/"
+
+# アプリケーション名
+app_name: "jk_shaberitai"
+
+# プログラマTwitterID
+programmer_twitter_id: "hdayprogrammer"
+
+# 曜日
+weekday: ["日", "月", "火", "水", "木", "金", "土"]
